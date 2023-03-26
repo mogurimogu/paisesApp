@@ -1,5 +1,9 @@
 # PaisesApp
 
+Country list app. Using [RestCountries](https://restcountries.com/) and Angular. It is an exercise from a Udemy course.
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
